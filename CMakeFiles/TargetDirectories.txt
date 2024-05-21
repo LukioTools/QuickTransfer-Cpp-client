@@ -1,0 +1,4 @@
+
+/home/hiha/developer/c++/QuickTransfer-Linux/CMakeFiles/main.dir
+/home/hiha/developer/c++/QuickTransfer-Linux/CMakeFiles/edit_cache.dir
+/home/hiha/developer/c++/QuickTransfer-Linux/CMakeFiles/rebuild_cache.dir
