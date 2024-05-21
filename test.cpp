@@ -18,7 +18,6 @@ int main() {
         curl_easy_setopt(curl, CURLOPT_URL, "http://localhost:8080/verifyUser");
         curl_easy_setopt(curl, CURLOPT_WRITEFUNCTION, WriteCallback);
         curl_easy_setopt(curl, CURLOPT_WRITEDATA, &readBuffer);
-        curl_easy_setopt(curl, CURLOPT_COOKIE, "\"username\":\"vili\";\"password\"=\"Kala\"");
 
         struct curl_slist *headers = NULL;
         headers = curl_slist_append(headers, "username: vili");
