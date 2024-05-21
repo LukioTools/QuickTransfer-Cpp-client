@@ -4,7 +4,7 @@
 *.pptx
 CMakeUserPresets.json
 
-./CMakeFiles
+CMakeFiles
 
 ################################
 ########### FOLDERS ############
